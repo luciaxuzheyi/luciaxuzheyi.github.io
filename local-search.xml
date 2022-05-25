@@ -33,6 +33,35 @@
   
   
   <entry>
+    <title>Street Shot @ Shanghai (Dec 11, 2021)</title>
+    <link href="/posts/52646.html"/>
+    <url>/posts/52646.html</url>
+    
+    <content type="html"><![CDATA[<head>  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css"></head><body>  <div class="swiper-container">    <div class="swiper-wrapper">      <div class="slider-item swiper-slide">        <div class="slider-image-wrapper">          <img class="slider-image" src="/posts/52646/photo1.JPG" alt="SliderImg">        </div>        <div class="slider-item-content">          <span align="center">Photo @ South Shanghai Railway Station</span>          <p align="center">上海南站</p>        </div>      </div>      <div class="slider-item swiper-slide">        <div class="slider-image-wrapper">          <img class="slider-image" src="/posts/52646/photo2.JPG" alt="SliderImg">        </div>        <div class="slider-item-content">          <span align="center">Morning @ Shanghai</span>          <p align="center">上海的早晨</p>        </div>      </div>      <div class="slider-item swiper-slide">        <div class="slider-image-wrapper">          <img class="slider-image" src="/posts/52646/photo3.JPG" alt="SliderImg">        </div>        <div class="slider-item-content">          <span align="center">Cross Road</span>          <p align="center">安静的十字路口</p>        </div>      </div>      <div class="slider-item swiper-slide">        <div class="slider-image-wrapper">          <img class="slider-image" src="/posts/52646/photo4.JPG" alt="SliderImg">        </div>        <div class="slider-item-content">          <span align="center">A pair of shoes in a lane</span>          <p align="center">弄堂里晾着的一双鞋</p>        </div>      </div>      <div class="slider-item swiper-slide">        <div class="slider-image-wrapper">          <img class="slider-image" src="/posts/52646/photo5.JPG" alt="SliderImg">        </div>        <div class="slider-item-content">          <span align="center">Symbolic Building @ Wukang Rd</span>          <p align="center">武康路标志性建筑</p>        </div>      </div>      <div class="slider-item swiper-slide">        <div class="slider-image-wrapper">          <img class="slider-image" src="/posts/52646/photo6.JPG" alt="SliderImg">        </div>        <div class="slider-item-content">          <span align="center">In a quite street</span>          <p align="center">安静的小路</p>        </div>      </div>      <div class="slider-item swiper-slide">        <div class="slider-image-wrapper">          <img class="slider-image" src="/posts/52646/photo7.JPG" alt="SliderImg">        </div>        <div class="slider-item-content">          <span align="center">Dogs chatting</span>          <p align="center">嬉闹的小狗</p>        </div>      </div>      <div class="slider-item swiper-slide">        <div class="slider-image-wrapper">          <img class="slider-image" src="/posts/52646/photo8.JPG" alt="SliderImg">        </div>        <div class="slider-item-content">          <span align="center">A street artist @ Century Park</span>          <p align="center">世纪公园的街头画师</p>        </div>      </div>      <div class="slider-item swiper-slide">        <div class="slider-image-wrapper">          <img class="slider-image" src="/posts/52646/photo9.JPG" alt="SliderImg">        </div>        <div class="slider-item-content">          <span align="center">A street artist @ Century Park</span>          <p align="center">世纪公园的街头画师</p>        </div>      </div>      <div class="slider-item swiper-slide">        <div class="slider-image-wrapper">          <img class="slider-image" src="/posts/52646/photo10.JPG" alt="SliderImg">        </div>        <div class="slider-item-content">          <span align="center">Night @ Shanghai</span>          <p align="center">夜晚了</p>        </div>      </div>    </div>    <div class="swiper-pagination"></div>  </div>  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>  <script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/6.4.5/swiper-bundle.min.js"></script></body><p>#Please scroll your mouse to switch pictures.<br>#请滚动鼠标切换图片。</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>Street Shot</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>photography</tag>
+      
+      <tag>street shot</tag>
+      
+      <tag>Shanghai view</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>One-day Trip @ Xi&#39;an (Oct 10, 2021)</title>
     <link href="/posts/14195.html"/>
     <url>/posts/14195.html</url>
@@ -49,9 +78,9 @@
     
     <tags>
       
-      <tag>photography</tag>
-      
       <tag>one-day trip</tag>
+      
+      <tag>photography</tag>
       
       <tag>Xi&#39;an</tag>
       
@@ -78,9 +107,9 @@
     
     <tags>
       
-      <tag>photo guide</tag>
-      
       <tag>photography</tag>
+      
+      <tag>photo guide</tag>
       
       <tag>aquarium</tag>
       
@@ -101,11 +130,11 @@
     
     <tags>
       
-      <tag>photography</tag>
-      
       <tag>Shanghai Haichang Ocean Park</tag>
       
       <tag>one-day trip</tag>
+      
+      <tag>photography</tag>
       
     </tags>
     

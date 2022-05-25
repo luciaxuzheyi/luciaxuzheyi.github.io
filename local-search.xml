@@ -21,7 +21,7 @@
     <link href="/posts/18050.html"/>
     <url>/posts/18050.html</url>
     
-    <content type="html"><![CDATA[<p>Street Shot @ Shanghai (Jan 1, 2022)</p><p><img src="/posts/18050/DSC_0030.JPG"><br><img src="/posts/18050/DSC_0037.JPG"><br><img src="/posts/18050/DSC_0061.JPG"><br><img src="/posts/18050/DSC_0066.JPG"><br><img src="/posts/18050/DSC_0106.JPG"><br><img src="/posts/18050/DSC_0123.JPG"><br><img src="/posts/18050/DSC_0124.JPG"><br><img src="/posts/18050/DSC02518.JPG"></p><!---轮播：1.将几张图片叠在一起，通过改变"display:block"和"display:none"这两个属性实现替换。    （前提：在css中给所有图片加上display:none属性）2.不用将图片叠在一起，将一个div当做"窗口"，通过"offset（height/top/width/left）"属性获取图片的（高/到顶部距离/宽/到左边距离/到右边距离），再通过事件更改相应的属性，让图片在"窗口"内整体移动。--->]]></content>
+    <content type="html"><![CDATA[<head>  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css"></head><body>  <div class="swiper-container">    <div class="swiper-wrapper">      <div class="slider-item swiper-slide">        <div class="slider-image-wrapper">          <img class="slider-image" src="/posts/18050/photo (1).JPG" alt="SliderImg">        </div>        <div class="slider-item-content">          <span>测试</span>          <p>demo</p>        </div>      </div>      <div class="slider-item swiper-slide">        <div class="slider-image-wrapper">          <img class="slider-image" src="/posts/18050/photo (2).JPG" alt="SliderImg">        </div>        <div class="slider-item-content">          <span>测试</span>          <p>demo</p>        </div>      </div>      <div class="slider-item swiper-slide">        <div class="slider-image-wrapper">          <img class="slider-image" src="/posts/18050/photo (3).JPG" alt="SliderImg">        </div>        <div class="slider-item-content">          <span>DEMO</span>          <p>demo</p>        </div>      </div>      <div class="slider-item swiper-slide">        <div class="slider-image-wrapper">          <img class="slider-image" src="/posts/18050/photo (4).JPG" alt="SliderImg">        </div>        <div class="slider-item-content">          <span>测试</span>          <p>demo</p>        </div>      </div>      <div class="slider-item swiper-slide">        <div class="slider-image-wrapper">          <img class="slider-image" src="/posts/18050/photo (5).JPG" alt="SliderImg">        </div>        <div class="slider-item-content">          <span>测试12</span>          <p>demo</p>        </div>      </div>      <div class="slider-item swiper-slide">        <div class="slider-image-wrapper">          <img class="slider-image" src="/posts/18050/photo (6).JPG" alt="SliderImg">        </div>        <div class="slider-item-content">          <span>测试</span>          <p>demo</p>        </div>      </div>      <div class="slider-item swiper-slide">        <div class="slider-image-wrapper">          <img class="slider-image" src="/posts/18050/photo (7).JPG" alt="SliderImg">        </div>        <div class="slider-item-content">          <span>测试</span>          <p>demo</p>        </div>      </div>      <div class="slider-item swiper-slide">        <div class="slider-image-wrapper">          <img class="slider-image" src="/posts/18050/photo (8).JPG" alt="SliderImg">        </div>        <div class="slider-item-content">          <span>测试</span>          <p>demo</p>        </div>      </div>    </div>    <div class="swiper-pagination"></div>  </div>  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>  <script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/6.4.5/swiper-bundle.min.js"></script></body>]]></content>
     
     
     <categories>
@@ -38,6 +38,37 @@
       <tag>street shot</tag>
       
       <tag>Shanghai view</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>One-day Trip @ Xi&#39;an (Oct 10, 2021)</title>
+    <link href="/posts/14195.html"/>
+    <url>/posts/14195.html</url>
+    
+    <content type="html"><![CDATA[<head>  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css"></head><body>  <div class="swiper-container">    <div class="swiper-wrapper">      <div class="slider-item swiper-slide">        <div class="slider-image-wrapper">          <img class="slider-image" src="/posts/14195/photo (1).jpg" alt="SliderImg">        </div>        <div class="slider-item-content">          <span>测试</span>          <p>demo</p>        </div>      </div>      <div class="slider-item swiper-slide">        <div class="slider-image-wrapper">          <img class="slider-image" src="/posts/14195/photo (2).jpg" alt="SliderImg">        </div>        <div class="slider-item-content">          <span>测试</span>          <p>demo</p>        </div>      </div>      <div class="slider-item swiper-slide">        <div class="slider-image-wrapper">          <img class="slider-image" src="/posts/14195/photo (3).jpg" alt="SliderImg">        </div>        <div class="slider-item-content">          <span>DEMO</span>          <p>demo</p>        </div>      </div>      <div class="slider-item swiper-slide">        <div class="slider-image-wrapper">          <img class="slider-image" src="/posts/14195/photo (4).jpg" alt="SliderImg">        </div>        <div class="slider-item-content">          <span>测试</span>          <p>demo</p>        </div>      </div>      <div class="slider-item swiper-slide">        <div class="slider-image-wrapper">          <img class="slider-image" src="/posts/14195/photo (5).jpg" alt="SliderImg">        </div>        <div class="slider-item-content">          <span>测试12</span>          <p>demo</p>        </div>      </div>      <div class="slider-item swiper-slide">        <div class="slider-image-wrapper">          <img class="slider-image" src="/posts/14195/photo (6).jpg" alt="SliderImg">        </div>        <div class="slider-item-content">          <span>测试</span>          <p>demo</p>        </div>      </div>    </div>    <div class="swiper-pagination"></div>  </div>  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>  <script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/6.4.5/swiper-bundle.min.js"></script></body>]]></content>
+    
+    
+    <categories>
+      
+      <category>One-day Trip</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>Xi&#39;an</tag>
+      
+      <tag>One-day Trip</tag>
+      
+      <tag>Great Tang All Day Mall</tag>
+      
+      <tag>Photography</tag>
       
     </tags>
     

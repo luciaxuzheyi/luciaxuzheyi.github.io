@@ -236,8 +236,14 @@
     <link href="/posts/29061.html"/>
     <url>/posts/29061.html</url>
     
-    <content type="html"><![CDATA[        <div id="aplayer-tqKhPDtk" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">            <pre class="aplayer-lrc-content"></pre>        </div>        <script>          var ap = new APlayer({            element: document.getElementById("aplayer-tqKhPDtk"),            narrow: false,            autoplay: false,            showlrc: false,            music: {              title: "入海",              author: "毛不易",              url: "/Playlist/入海-毛不易.mp3",              pic: "/Playlist/入海-毛不易.png",              lrc: ""            }          });          window.aplayers || (window.aplayers = []);          window.aplayers.push(ap);        </script><p><img src="/posts/29061/photo1.JPG"></p><p align="center">天刚蒙蒙亮</p><br><img src="/posts/29061/photo2.JPG"><p align="center">通往周边小岛的路</p><br><img src="/posts/29061/photo3.JPG"><p align="center">通往周边小岛的路</p><br><img src="/posts/29061/photo4.JPG"><p align="center">随处可见的钓鱼爱好者</p><br><img src="/posts/29061/photo5.JPG"><p align="center">渔民在劳作</p><br><img src="/posts/29061/photo6.JPG"><p align="center">渔民在劳作</p><br><img src="/posts/29061/photo7.JPG"><p align="center"></p><p></p><p>#Please do not reproduce without permission.<br>#未经允许，请勿转载。</p>]]></content>
+    <content type="html"><![CDATA[<p><img src="/posts/29061/photo1.JPG"></p><p align="center">天刚蒙蒙亮</p><br><img src="/posts/29061/photo2.JPG"><p align="center">通往周边小岛的路</p><br><img src="/posts/29061/photo3.JPG"><p align="center">通往周边小岛的路</p><br><img src="/posts/29061/photo4.JPG"><p align="center">随处可见的钓鱼爱好者</p><br><img src="/posts/29061/photo5.JPG"><p align="center">渔民在劳作</p><br><img src="/posts/29061/photo6.JPG"><p align="center">渔民在劳作</p><br><img src="/posts/29061/photo7.JPG"><p align="center"></p><p></p><p>#Please do not reproduce without permission.<br>#未经允许，请勿转载。</p>]]></content>
     
+    
+    <categories>
+      
+      <category>Trip</category>
+      
+    </categories>
     
     
     <tags>

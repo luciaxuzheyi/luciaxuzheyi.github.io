@@ -1,0 +1,19 @@
+/*aplayer可以根据该网址 https://github.com/MoePlayer/hexo-tag-aplayer*/
+/*音乐文件引用格式如下
+
+
+			<script>
+				console.error("Error: [hexo-tag-aplayer] Specified asset file not found ([picture_url,)");
+			</script>
+
+*/
+
+
+			<script>
+				console.error("Error: [hexo-tag-aplayer] Specified asset file not found (入海-毛不易.png)");
+			</script>
+
+
+			<script>
+				console.error("SyntaxError: Unexpected token / in JSON at position 48");
+			</script>
